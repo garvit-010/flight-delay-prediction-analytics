@@ -107,9 +107,6 @@ The Power BI dashboard provides an interactive view of:
 * Top delay-prone routes
 * Delay rates by departure hour
 
-### Dashboard Preview
-
-![Flight Delay Analytics Dashboard](dashboard_preview.png)
 
 ### Power BI Report
 
@@ -156,4 +153,3 @@ flight-delay-prediction-analytics/
 **Garvit Audichya**
 AI/ML Engineer | Data Science | Generative AI
 
-[GitHub](https://github.com/garvit-010/) • [LinkedIn](https://www.linkedin.com/in/garvit-audichya-305132337/)
